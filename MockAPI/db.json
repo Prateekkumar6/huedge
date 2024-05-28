@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Complete React Course",
+      "details": "Finish the task list component for the React project.",
+      "dueDate": "2024-06-01",
+      "due_date": "2024-05-29",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "name": "Write Documentation",
+      "details": "Write detailed documentation for the React project.",
+      "dueDate": "2024-06-05",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "name": "Review Code",
+      "details": "Review the code for potential improvements and optimizations.",
+      "dueDate": "2024-06-10"
+    },
+    {
+      "id": "4",
+      "name": "Deploy Application",
+      "details": "Deploy the application to the staging environment.",
+      "dueDate": "2024-06-15"
+    },
+    {
+      "id": "5",
+      "name": "Fix Bugs",
+      "details": "Identify and fix bugs reported by the QA team.",
+      "dueDate": "2024-06-20",
+      "completed": true
+    }
+  ]
+}
